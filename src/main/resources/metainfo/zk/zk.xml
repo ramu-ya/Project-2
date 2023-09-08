@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>567</config-name>
+	<client-config>
+		<data-handler>
+			<name>567</name> 
+			<link href="~./css/567.css" rel="stylesheet" /> <!-- custom css -->
+			<script src="~./js/lib/567-3rd-party.js" /> <!-- 3rd party Library -->
+            <script src="~./js/567.js" /> <!-- Data Handler Script -->
+		</data-handler>
+	</client-config>
+</zk>
